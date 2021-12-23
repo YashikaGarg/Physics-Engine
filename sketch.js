@@ -5,6 +5,8 @@ const World = Matter.World;
 const Bodies = Matter.Bodies;
 const Body = Matter.Body;
 
+//Please set the bounciness of the box
+
 function preload()
 {
 	helicopterIMG=loadImage("helicopter.png")
